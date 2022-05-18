@@ -1,7 +1,8 @@
 INDEX
 
-[Pre order traversal](preordertraversal2.c)
- [Inorder traversal](inordertraversal.c)
+[Pre order traversal](preordertraversal2.c)                            
+
+[Inorder traversal](inordertraversal.c)
 
 [Linear search](linearsearch.c)   
 
