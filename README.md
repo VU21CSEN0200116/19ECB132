@@ -7,4 +7,4 @@
 
 [Linked list traversal](linkedlisttraversal.c)
 
-https://github.com/VU21CSEN0200116/19ECB132/blob/main/adtarrayimplementation.c
+[ADT array traversal](adtarrayimplementation.c)
