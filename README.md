@@ -6,5 +6,6 @@ INDEX
 
 [Linear search](linearsearch.c)   
 
-[Linked list traversal](linkedlisttraversal.c)
- [ADT array traversal](adtarrayimplementation.c)
+[Linked list traversal](linkedlisttraversal.c)  
+
+[ADT array traversal](adtarrayimplementation.c)
