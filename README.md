@@ -3,6 +3,6 @@
 
 [Inorder traversal](inordertraversal.c)
 
-https://github.com/VU21CSEN0200116/19ECB132/blob/main/linearsearch.c
-https://github.com/VU21CSEN0200116/19ECB132/blob/main/linkedlisttraversal.c
+[Linear search](linearsearch.c)   
+ https://github.com/VU21CSEN0200116/19ECB132/blob/main/linkedlisttraversal.c
 https://github.com/VU21CSEN0200116/19ECB132/blob/main/adtarrayimplementation.c
