@@ -47,5 +47,5 @@ int main(){
     p1->right = p4;
 
     preOrder(p);
-    return 0;
+    return 0; 
 }
