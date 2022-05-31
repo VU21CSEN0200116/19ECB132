@@ -43,4 +43,4 @@ void printarr(int arr[10][10],int n,int m){
 	}
 	printf("\n");
 }
-
+ 
