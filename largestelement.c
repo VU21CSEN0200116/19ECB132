@@ -26,10 +26,6 @@ void check(int arr[],int n){
 		if(g<arr[i]){
 			g=arr[i];
 		}
-		
-		
-		
-		printf("g is %d for step %d\n",g,i+1);
 	}
 	printf("the greatest number is %d",g);
 }
