@@ -37,5 +37,5 @@ int main(){
     int element = 444;
     int searchIndex = binarySearch(arr, size, element);
     printf("The element %d was found at index %d \n", element, searchIndex);
-    return 0;
+    return 0; 
 }
