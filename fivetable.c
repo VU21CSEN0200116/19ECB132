@@ -13,3 +13,4 @@ int main()
     fivetable(a,size);
     return 0;
 }
+ 
