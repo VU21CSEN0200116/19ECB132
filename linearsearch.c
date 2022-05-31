@@ -40,3 +40,4 @@ int main(){
     printf("The element %d was found at index %d \n", element, searchIndex);
     return 0;
 }
+ 
