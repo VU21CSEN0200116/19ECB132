@@ -43,4 +43,22 @@ void printarr(int arr[10][10],int n,int m){
 	}
 	printf("\n");
 }
-  
+  /*
+output
+enter the rows and coloumns 
+2
+3
+enter your elements 
+1
+2
+3
+4
+6
+7
+1 2 3 
+4 6 7 
+
+1 4 
+2 6 
+3 7 
+  */
