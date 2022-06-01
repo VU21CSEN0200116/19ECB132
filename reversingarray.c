@@ -50,3 +50,16 @@ void swap(int *a, int *b)
     *a = *b;
     *b = temp;
 } 
+/*
+output
+enter the size 
+5
+Enter your elements 
+1
+4
+6
+7
+4
+1 4 6 7 4 
+4 7 6 4 1 
+*/
