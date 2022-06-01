@@ -29,3 +29,14 @@ void check(int arr[],int n){
 	}
 	printf("the greatest number is %d",g);
 }
+/*
+enter the size 
+5
+Enter the input
+2
+4
+1
+6
+3
+the greatest number is 6
+  */
