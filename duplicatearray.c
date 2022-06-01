@@ -38,3 +38,15 @@ void printarr(int arr[],int n){
 		printf("%d ",arr[i]);
 	}
 }
+/*
+output
+enter the size 
+5
+enter the elements 
+enter element 1 :1
+enter element 2 :2
+enter element 3 :3
+enter element 4 :4
+enter element 5 :5
+1 2 3 4 5
+  */
