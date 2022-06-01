@@ -20,3 +20,9 @@ int main()
 	return 0;
 }
  
+/*
+Enter your number 
+121
+The reversed number is 121 
+The number is a pallindrome
+*/
