@@ -65,3 +65,8 @@ void printamstrongornot(int a){
 	else
 	printf("amstrong");
 }
+/*
+output
+Enter the number :371
+amstrong
+*/
