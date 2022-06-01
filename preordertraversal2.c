@@ -49,3 +49,6 @@ int main(){
     preOrder(p);
     return 0;
 }
+/*
+4 1 5 2 6
+  */
